@@ -130,7 +130,7 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 *.doc
-*.docs
+*.docx
 *.pdf
 *.rar
 *.vsd
